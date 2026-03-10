@@ -1,0 +1,88 @@
+body{
+    margin: 0 ;
+}
+
+#parent{
+    display: flex;
+    flex-direction: column;
+}
+
+#header{
+    background-color:  beige;
+    height:20vh;
+    width:100vw;
+    color:black;
+    text-align: center;
+    line-height: 20vh;
+}
+
+#div1{
+    background-color:  aqua;
+    height:70vh;
+    width:100vw;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#footer{
+    background-color:  gray;
+    height:10vh;
+    width:100vw;
+    color:white;
+    text-align: center;
+    line-height: 10vh;
+}
+
+table{
+    background-color: white;
+    padding: 20px;
+    border-radius: 10px;
+    border-spacing: 10px;
+    box-shadow: 0 0 10px gray;
+}
+
+
+.textClass{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    font-weight:bold;
+}
+
+.class1{
+    width: 220px;
+    height: 40px;
+    border : 1px solid gray;
+    border-radius : 6 px;
+    padding-left: 10px;
+}
+
+.submitButton{
+    background-color: green;
+    width : 100px;
+    height:40px;
+    color:white;
+    border:1;
+    border-radius: 10px;
+}
+
+.resetButton{
+    background-color: red;
+    width : 100px;
+    height:40px;
+    color:white;
+    border:1;
+    border-radius: 10px;
+}
+
+.submitButton,
+.resetButton{
+    cursor: pointer;
+}
+
+
+
+
+
+
+
