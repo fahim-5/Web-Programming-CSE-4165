@@ -12,3 +12,4 @@ The purpose of this repository is to systematically store and manage all lab ass
 
 ## Objective
 The primary objective of this repository is to maintain a well-organized version-controlled record of academic work related to modern web programming technologies.
+
